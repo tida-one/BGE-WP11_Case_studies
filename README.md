@@ -8,7 +8,7 @@ Each folder in the repository represents an individual case study. Each folder n
 
 Example: 
 
-Antwerp_University-Knipowitschia_panizzae
+Uppsala_University-Scomber_scombrus
 
 # Help & Support
 If you encounter issues or need support, either submit a request or contact chiara[dot]bortoluzzi[at]sib[dot]swiss and jpimenta[at]cibio[dot]up[dot]pt
