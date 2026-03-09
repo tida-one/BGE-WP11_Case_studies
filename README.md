@@ -15,6 +15,7 @@ If you encounter issues or need support, either submit a request or contact chia
 
 # Authors 
 Chiara Bortoluzzi, Data Manager, Environmental Bioinformatics Group, SIB Swiss Institute of Bioinformatics, Switzerland
+
 João Pimenta, Cibio, Portugal
 
 # Version History
