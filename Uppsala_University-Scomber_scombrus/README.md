@@ -3,6 +3,7 @@ This repository includes all the scripts used to [specify here the reason: taken
 
 # Authors 
 [Name of applicant], [Affiliation], [Address of affiliation], [Country]
+
 [Name of applicant], [Affiliation], [Address of affiliation], [Country]
 
 # Acknowledgements
