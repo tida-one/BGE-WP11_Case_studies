@@ -1,4 +1,4 @@
-# Title of the case study
+# Conservation genomics of the Mediterranean red coral, Corallium rubrum
 This repository includes all the scripts used in the study entitled 'Conservation genomics of the Mediterranean red coral, Corallium rubrum: a habitat-forming octocoral threatened by overharvesting and anthropogenic climate change'.
 
 
